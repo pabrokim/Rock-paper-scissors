@@ -1,2 +1,2 @@
 # Rock-paper-scissors
-This project implements a simple grade-school game by the name "Rock Paper Scissors." For the moment, it is going to play the game on the console. Later on, it will add graphical user interface with buttons and text. Enjoy!
+This project implements a simple grade-school game by the name "Rock Paper Scissors." For the moment, it is going to play the game on the console. Later on, it will add graphical user interface with buttons and text to enhance interactivity. Enjoy!
